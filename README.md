@@ -9,11 +9,11 @@ root@kali# ./pathscan -h
 
 ## Help Section
 ``
-Usage of ./pathscan:
+Usage of ./pathscan:  
   -t int  
-    	the num of threads (default 30)  
+     the num of threads (default 30)  
   -u string  
-    	website url  
+      website url  
 ``
 
 ## Example Section
